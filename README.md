@@ -84,7 +84,7 @@ import { GoogleOAuthProvider } from '@react-oauth/google';
 2. Install frontend dependencies:
 
 ```bash
-cd frontend
+cd client
 npm install
 ```
 
